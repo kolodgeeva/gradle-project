@@ -1,4 +1,6 @@
-package com.kolodzheieva;
+package com.kolodzheieva.lombok;
+
+import com.kolodzheieva.data.Product;
 
 public class Main {
 
